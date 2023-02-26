@@ -16,3 +16,31 @@ Contributions to Check for Banned Phrases are welcome. If you would like to cont
 ## License
 
 Check for Banned Phrases is released under the MIT License. See `LICENSE` for more information.
+
+
+## More Projects
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension">No Spoilers</a>
+        <br />
+      <a target="_blank" href="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension">
+            <img src="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension/raw/main/No%20Spoilers.gif" width="100%"  alt="No Spoilers browser add-on"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/React-Delivery-App">React Delivery Dashboard</a> 
+      <br />
+        <a target="_blank" href="https://delivery-order-dashboard.netlify.app/">
+          <img src="https://github.com/WilliamPasternak/React-Delivery-App/raw/main/walkthrough.gif" width="100%" alt="React Delivery Dashboard"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/WilliamPasternak/bread">bread</a>
+        <br />
+        <a target="_blank" href="https://github.com/WilliamPasternak/bread">
+          <img src="https://github.com/WilliamPasternak/bread/raw/main/bread.gif" width="100%" alt="bread website homepage"/>
+        </a>
+    </td>
+  </tr>
+</table>
