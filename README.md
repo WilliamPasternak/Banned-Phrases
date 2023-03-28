@@ -1,6 +1,6 @@
 # Banned Phrases
 
-This is a tool for writers and editors to quickly check if their writing contains any undesireable words or phrases like clichés. Users can input any text, along with a list of banned phrases and the application will highlight any banned phrases found in the text and display the banned phrases that were found.
+This is a tool for writers and editors to quickly check if their writing contains any undesirable words or phrases like clichés. Users can input any text, along with a list of banned phrases and the application will highlight any banned phrases found in the text and display the banned phrases that were found.
 
 **Link to project:** https://bannedphrases.netlify.app/
   <p align = 'center'>
